@@ -58,9 +58,11 @@
   
   <br/>
 
-  <!-- Cached Top Languages Card (prevents rate limit breaking) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfardinn&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=a1a1aa&cache_seconds=86400" alt="Top Languages" />
-</div>
+   
+
+  <!-- Top Languages Chart (Using a stable alternative provider) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamfardinn&theme=transparent" alt="Top Languages" />
+
 
 <br/>
 
