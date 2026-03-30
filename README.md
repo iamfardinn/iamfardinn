@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Fixed Typing Animation Header with Extended Width -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Fahim+Abrar!+%F0%9F%91%8B;Aspiring+Software+Engineer+%F0%9F%9A%80;Passionate+about+App+Development+%E2%9A%9B%EF%B8%8F;Building+DeepWork+Timer+%E2%8F%B1%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=850&lines=Hi+there,+I'm+Fahim+Abrar!+%F0%9F%91%8B;Aspiring+Software+Engineer+%F0%9F%9A%80;Passionate+about+Software+Development+%E2%9A%9B%EF%B8%8F;Building+DeepWork+Timer+%E2%8F%B1%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br/>
 
