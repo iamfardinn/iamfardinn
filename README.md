@@ -14,9 +14,7 @@
 <!-- Social Links -->
 <p align="center">
   <a href="https://github.com/iamfardinn"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="www.linkedin.com/in/
-fahim-abrar-a201691b3
-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/fahim-abrar-a201691b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 </div>
 
@@ -44,6 +42,7 @@ fahim-abrar-a201691b3
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🏢 **[MCT_Business_Management](https://github.com/iamfardinn/MCT_Business_Management)** | A comprehensive offline-first enterprise desktop application for managing distribution sales, broadband billing, and daily cashbook operations. Features secure auth, socket notifications, and robust PostgreSQL schemas. | React, Node.js, PostgreSQL, Electron |
 | 🧬 **[MediMind-AI](https://github.com/iamfardinn/MediMind-AI)** | A production-ready AI healthcare dashboard featuring generative medical chat, intelligent symptom analysis, and secure real-time doctor appointments with Stripe/SSLCommerz payments. | React, TypeScript |
 | 🕒 **[DeepWork_Frontend](https://github.com/iamfardinn/DeepWork_Frontend)** | A real-time, cross-client collaborative Pomodoro desktop widget with role-based rooms. | JavaScript, Electron |
 | 🎓 **[Campus-Connect](https://github.com/jahidunfarabi/Campus-Connect)** | University campus platform designed to connect students. | PHP |
